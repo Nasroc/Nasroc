@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hello There Everybody!
 
+My name is Carson Benedetto and I am learning to develop games.
+
+I am currently working on creating a replica of the free Idle/Incremental game Grim Clickers on steam.
+
+I wanted to challenge myself and learn in a new exciting way so I decided to pick a game I enjoy playing
+and trying to recreate it with my own code.
+
+
+If you have any tips I can use on my journey feel free to get in touch with me!
 <!--
 **Nasroc/Nasroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
