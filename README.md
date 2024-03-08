@@ -2,7 +2,7 @@
 
 My name is Carson Benedetto and I am learning to develop games.
 
-I am currently working on creating a replica of the free Idle/Incremental game Grim Clickers on steam.
+I am currently working on creating a replica of the free Idle/Incremental game Egg Inc.
 
 I wanted to challenge myself and learn in a new exciting way so I decided to pick a game I enjoy playing
 and trying to recreate it with my own code.
